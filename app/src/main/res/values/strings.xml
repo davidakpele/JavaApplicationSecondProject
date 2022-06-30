@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SchoolApplication</string>
+    <string name="sub_name">Rides. Payments. Lifestyle</string>
+    <string name="sub_name2">CAPTAIN</string>
+    <string name="button">Button</string>
+    <string name="Register_button">Register</string>
+    <string name="login">Login</string>
+    <string name="login_header1">Let\'s get </string>
+    <string name="login_header2">you signed in</string>
+    <string name="password">Password</string>
+    <string name="phone_email_or_username">Phone,email or username</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login_via_otp">Login via OTP</string>
+    <string name="register">Register</string>
+    <string name="OTPHeader">Login via OTP</string>
+    <string name="otp_sub_header">Please enter 4-digit verification code sent to email@gmail.com</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="OTP_Asking">Didn\'t recieve any code? </string>
+    <string name="OTP_Resend">Resend OTP </string>
+    <string name="resentpasswordHeader1">Reset your</string>
+    <string name="resentpasswordHeader2">password</string>
+    <string name="resentinputvalueHit">Email address or phone number</string>
+    <string name="resetBtnValue">Reset Password</string>
+</resources>
+
